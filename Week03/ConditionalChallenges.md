@@ -1,5 +1,5 @@
 # Conditional Challenges
-Complete the following challenges within the `Main` method of your program. Or, create additional program files/methods to complete these challenges. Use `if`, `else`, and `else if` (do not use any other control flow statements)!
+Complete the following challenges within the `Main` method of your program. Or, create additional program files/methods to complete these challenges. Use `if`, `else`, and `else if`. Try not to use any other control flow statements!
 
 #### 1. Even or Odd
 Write a program that reads an integer from the user. Then your program should display a message indicating whether the integer is even or odd.
