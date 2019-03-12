@@ -32,7 +32,7 @@ sum = 1 + 2 + 3 + ... + n
 ```
 
 ### Examples
-`n = 5`: `sum = 15`
+`n = 5`: `sum = 15`  
 `n = 19`: `sum = 190`
 
 Allow the user to input the value of `n`.
@@ -41,8 +41,8 @@ Allow the user to input the value of `n`.
 Write a method that calculates the largest factor of a number (not including the number itself).
 
 ### Examples
-`n = 24`: `output = 12`
-`n = 19`: `output = 1`
+`n = 24`: `output = 12`  
+`n = 19`: `output = 1`  
 `n = 27`: `output = 9`
 
 Allow the user to input the value of `n`.
@@ -51,14 +51,14 @@ Allow the user to input the value of `n`.
 Write a method that prints out an ASCII diamond of stars, with a height supplied by the user. The height is defined by the distance between the top line of stars and the middle line of stars.
 
 ### Examples
-User inputs `1`:
+User inputs `1`:  
 ```
  *
 * *
  *
 ```
 
-User inputs `3`:
+User inputs `3`:  
 ```
    *
   * *
