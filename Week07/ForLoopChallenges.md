@@ -3,8 +3,8 @@ Complete the following challenges.
 
 ## Palindrome
 Check if a string is a palindrome. A palindrome is defined as follows:
-    - A group of characters that is the same forward as it is backwards
-    - Palindromes normally do not take into account letter casing, spaces or punctuation
+- A group of characters that is the same forward as it is backwards
+- Palindromes normally do not take into account letter casing, spaces or punctuation
 
 Examples of some palindromes:
 - Tacocat
