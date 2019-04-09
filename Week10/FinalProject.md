@@ -2,6 +2,7 @@
 Show us what you learned!
 
 The first 2 weeks are for you to create your projects, what specifically you create is up to you! Examples in the past are Hangman, Create your own story, Mad-lib generators, simple databases with menu options, and rock paper scissors! All we ask is that you follow these required objectives:
+- Use at least one conditional statement
 - Use a loop! Can be `for`, `foreach` or `while`. Up to you!
 - Use at least one method, show us you understand how to use them
 - If your project would benefit from a `List`, use one!
