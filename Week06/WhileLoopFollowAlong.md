@@ -24,7 +24,6 @@ Second, we will create the while loop. To start, we will initialize the counter 
 We want to use a counter that starts at the integer the user provided and the result starts at 1. 
 
 1. Since we will be counting backwards, we want to start the counter at the number the user provides.
-
 1. Also, we are going to be multiplying the result by the counter, so we don't want to start at 0 or the result will always be 0!
 
 ### Code
